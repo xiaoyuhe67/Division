@@ -20,6 +20,9 @@ class Division {
 	  {
 		  System.out.println("Do not enter 0 for the second integer");
 	  }
+	  finally {
+		    System.out.println("finally block will execute.");
+		}
  
       
   }
